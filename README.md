@@ -45,3 +45,4 @@ Enfin il est possible de Swiper un element pour le supprimer de la liste
 L'element swiper est bien supprimé de la base firestore
 ![image](https://user-images.githubusercontent.com/71399411/150182830-ea19daab-868d-4d11-a0d6-e08042441703.png)
 
+Donc on peut voir que le TP fonctionne dans les grandes lignes, malgré quelques bugs l'ajout, l'affichage et la suppression des clients fonctionne.
